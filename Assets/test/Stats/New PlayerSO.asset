@@ -15,9 +15,17 @@ MonoBehaviour:
   <Hp>k__BackingField: 1
   <Armour>k__BackingField: 0
   <Movespeed>k__BackingField: 1
+<<<<<<< Updated upstream
   <Luck>k__BackingField: 1
   <AttackSpeed>k__BackingField: 0
   <AttackCD>k__BackingField: 0
   <AttackDamage>k__BackingField: 0
   <AttackAmount>k__BackingField: 0
+=======
+  <Luck>k__BackingField: 0
+  <AttackSpeed>k__BackingField: 1
+  <AttackCD>k__BackingField: 1
+  <AttackDamage>k__BackingField: 1
+  <AttackAmount>k__BackingField: 1
+>>>>>>> Stashed changes
   <MainWeapon>k__BackingField: {fileID: 7539184944762131409, guid: 497b0c7814d5a53488a2edf9b29cbb9b, type: 3}

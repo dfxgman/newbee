@@ -487,7 +487,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1135129319}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 393b90ebdbbe0ef42aee4c1b8db9bd9f, type: 3}
+  m_Script: {fileID: 11500000, guid: dd8c533f1fee6cf4d9c80adb01ad7bf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!54 &1135129325
@@ -526,7 +526,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1135129319}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbe63581b1a46dc4ab48d73d754c6f42, type: 3}
+  m_Script: {fileID: 11500000, guid: b8bffd343b8ce8a498a96975431082fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1135129325}
@@ -542,7 +542,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Actions: {fileID: -944628639613478452, guid: ef7fb4b96a423834794674214f5ccb05, type: 3}
+  m_Actions: {fileID: -944628639613478452, guid: b4468b03d010eb24cbe4c1f11a1a443f, type: 3}
   m_NotificationBehavior: 2
   m_UIInputModule: {fileID: 0}
   m_DeviceLostEvent:
